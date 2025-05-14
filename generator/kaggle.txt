@@ -1,0 +1,49 @@
+https://www.kaggle.com/datasets/orvile/bus-uc-breast-ultrasound
+
+
+BUS_UC: Benign and Malignant Breast Ultrasound Images with Annotations
+Overview 🔬
+The BUS_UC dataset is a collection of ultrasound images of breast tumors, categorized as either benign or malignant. This dataset is intended for research and development in the areas of breast tumor segmentation and classification. All images have a resolution of 256 × 256 pixels.
+
+Dataset Contents 📁
+The dataset includes:
+
+Benign Tumor Images: 358 ultrasound images of benign breast tumors.
+Malignant Tumor Images: 453 ultrasound images of malignant breast tumors.
+Note: This dataset does not include ground truth images from the original source. Annotations for segmentation and classification were created with the help of an experienced radiologist.
+
+Data Acquisition and Annotation 🧑‍⚕️
+The ultrasound images were obtained from the website Ultrasound Cases (ultrasoundcases.info). As this source did not provide ground truth images, an experienced radiologist was involved in annotating the benign and malignant tumor images specifically for segmentation and classification tasks.
+
+Potential Uses 💡
+This dataset can be utilized for various research activities, including but not limited to:
+
+Breast Tumor Segmentation: Developing and evaluating algorithms to accurately segment tumor regions in ultrasound images. ✂️
+Breast Tumor Classification: Training and testing machine learning and deep learning models to classify tumors as benign or malignant based on ultrasound images. 🧠
+Comparative Studies: Comparing the performance of different segmentation and classification techniques on breast ultrasound images. 📊
+Educational Purposes: Providing students and researchers with a labeled dataset for learning and experimentation in medical image analysis. 📚
+Citation ✍️
+If you use this dataset in your research, please cite the following publications:
+
+Ahmed Iqbal, Muhammad Sharif, "Memory-efficient transformer network with feature fusion for breast tumor segmentation and classification task", Engineering Applications of Artificial Intelligence, 2023.
+iqbal, Ahmed (2023), “BUS_UC”, Mendeley Data, V1, doi: 10.17632/3ksd7w7jkx.1
+Contributor 🧑‍🤝‍🧑
+Ahmed Iqbal
+
+Institutions 🏢
+COMSATS Institute of Information Technology - Wah Campus
+
+Categories 🏷️
+Breast Cancer, Image Segmentation, Ultrasound, Image Classification
+
+License 📜
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). This license allows for the sharing and adaptation of the material for any purpose, even commercially, as long as appropriate credit is given to the authors.
+
+Please consider upvoting this dataset if you find it useful! 👍
+
+
+View less
+Usability
+10.00
+
+License
