@@ -110,8 +110,8 @@ Breast Cancer, Image Segmentation, Ultrasound, Image Classification
 <a href="https://creativecommons.org/licenses/by/4.0/deed.en">
 CC BY 4.0
 </a>
-<br
 <br>
+
 <h3>
 <a id="2">
 2 BUS-UC-Malignant ImageMask Dataset
