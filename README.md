@@ -5,7 +5,6 @@ Software Laboratory antillia.com<br><br>
 This is the first experiment of Image Segmentation for BUS-UC-Malignant 
  based on 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
-
 a pre-augmented <a href="https://drive.google.com/file/d/14mP6Km_QKO_WKe2iGXgN_9nLMS_xtSmH/view?usp=sharing">
 BUS-UC-Malignant-ImageMask-Dataset.zip</a>,
 which was derived by us from 
