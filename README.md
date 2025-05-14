@@ -78,7 +78,7 @@ you may try other Tensorflow UNet Models:<br>
 <br>
 
 <h3>1. Dataset Citation</h3>
-We used the following dataset in kaggle web site<br>
+We used the following dataset in Mendeley web site<br>
 <a href="https://data.mendeley.com/datasets/3ksd7w7jkx/1">
 Mendeley Data: BUS_UC</a>
 <br><br>
